@@ -12003,6 +12003,11 @@ hr {
   color: gray;
 }
 
+.grigiotestobottone3 {
+  background-color: rgb(224, 224, 224);
+  width: 280px;
+}
+
 .hover:hover {
   color: #e2e0e0;
   font-weight: bold;
@@ -12012,4 +12017,8 @@ hr {
   background-color: red;
   color: #000000;
   font-weight: bold;
+}
+
+.logooooo {
+  margin-left: -9px;
 }/*# sourceMappingURL=style.css.map */
