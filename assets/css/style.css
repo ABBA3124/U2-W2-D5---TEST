@@ -11964,4 +11964,52 @@ textarea.form-control-lg {
   width: 36px;
   text-align: center;
   padding: 2px;
+}
+
+.container2 {
+  max-width: 600px;
+}
+
+.stile {
+  width: 400px;
+  background-color: gray;
+}
+
+.montalbano {
+  width: 435px;
+}
+
+.stile2 {
+  max-width: 44%;
+  background-color: rgb(82, 82, 82);
+}
+
+hr {
+  color: #ffffff;
+}
+
+.customCheckBox {
+  width: 2em;
+  height: 2em;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.grigiotesto {
+  color: rgb(216, 216, 216);
+}
+
+.grigiotestobottone {
+  color: gray;
+}
+
+.hover:hover {
+  color: #e2e0e0;
+  font-weight: bold;
+}
+
+.hover2:hover {
+  background-color: red;
+  color: #000000;
+  font-weight: bold;
 }/*# sourceMappingURL=style.css.map */
