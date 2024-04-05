@@ -12025,4 +12025,18 @@ hr {
 
 .logooooo {
   margin-left: -9px;
+}
+
+.hover5:hover {
+  color: #f8f8f8;
+  background-color: #f8f8f8;
+}
+
+.hover4:hover {
+  color: #f8f8f8;
+}
+
+.coloreBottoneeeee {
+  color: gray;
+  background-color: transparent;
 }/*# sourceMappingURL=style.css.map */
