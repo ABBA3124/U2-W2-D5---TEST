@@ -12005,7 +12005,11 @@ hr {
 
 .grigiotestobottone3 {
   background-color: rgb(224, 224, 224);
-  width: 280px;
+  width: 260px;
+}
+
+.abba {
+  margin-right: 5%;
 }
 
 .hover:hover {
